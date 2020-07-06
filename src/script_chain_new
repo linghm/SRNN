@@ -1,4 +1,4 @@
-python run_experiments.py \
+python3 run_experiments.py \
 --system_type 'chain' \
 --noiseless_dataset_index newA \
 --train_noise_level 0.2 \
